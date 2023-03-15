@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+.total{
+    display: flex;
+    border: 30px solid;
+}
+.introduction{
+    width: 30%;
+    background-color: aqua;
+   
+}
+img{
+    width:100%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.heading1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.heading3{
+   display: flex;
+}
+
+.secondpage{
+    justify-content: center;
+    width: 70%;
+    background-color: grey;
+}
+.head1{
+    display: flex;
+    margin: 10px;
+    line-height: 1.5;
+}
+h2{
+    text-align: center;
+    line-height: 2.5;
+    font-size: 200%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head2{
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border: none;
+  justify-content: space-between;
+}
+.head3{
+    
+    justify-content: space-between;
+    text-align: center;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border: none;
+}
+.head4{
+    text-align: center;
+    line-height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:bottom;
+}
+.dot{
+    text-align: center;
+    color: aqua;
+    font-size: 200%;
+}
